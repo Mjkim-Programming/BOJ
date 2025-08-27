@@ -1,0 +1,1 @@
+r=int(input());print(1 if r>0and(r&(r-1))==0 else 0)
